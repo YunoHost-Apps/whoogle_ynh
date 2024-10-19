@@ -41,17 +41,12 @@ Obtenez des résultats de recherche Google, mais sans aucune publicité, JavaScr
 
 **Version incluse :** 0.9.0~ynh1
 
-**Démo :** <https://demo.example.com>
-
 ## Captures d’écran
 
 ![Capture d’écran de Whoogle](./doc/screenshots/screenshot.png)
 
 ## Documentations et ressources
 
-- Site officiel de l’app : <https://example.com>
-- Documentation officielle utilisateur : <https://yunohost.org/apps>
-- Documentation officielle de l’admin : <https://yunohost.org/packaging_apps>
 - Dépôt de code officiel de l’app : <https://github.com/benbusby/whoogle-search>
 - YunoHost Store : <https://apps.yunohost.org/app/whoogle>
 - Signaler un bug : <https://github.com/YunoHost-Apps/whoogle_ynh/issues>

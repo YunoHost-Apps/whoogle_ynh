@@ -41,17 +41,12 @@ Get Google search results, but without any ads, JavaScript, AMP links, cookies, 
 
 **Versi terkirim:** 0.9.0~ynh1
 
-**Demo:** <https://demo.example.com>
-
 ## Tangkapan Layar
 
 ![Tangkapan Layar pada Whoogle](./doc/screenshots/screenshot.png)
 
 ## Dokumentasi dan sumber daya
 
-- Website aplikasi resmi: <https://example.com>
-- Dokumentasi pengguna resmi: <https://yunohost.org/apps>
-- Dokumentasi admin resmi: <https://yunohost.org/packaging_apps>
 - Depot kode aplikasi hulu: <https://github.com/benbusby/whoogle-search>
 - Gudang YunoHost: <https://apps.yunohost.org/app/whoogle>
 - Laporkan bug: <https://github.com/YunoHost-Apps/whoogle_ynh/issues>

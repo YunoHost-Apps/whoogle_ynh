@@ -41,17 +41,12 @@ Get Google search results, but without any ads, JavaScript, AMP links, cookies, 
 
 **Geleverde versie:** 0.9.0~ynh1
 
-**Demo:** <https://demo.example.com>
-
 ## Schermafdrukken
 
 ![Schermafdrukken van Whoogle](./doc/screenshots/screenshot.png)
 
 ## Documentatie en bronnen
 
-- Officiele website van de app: <https://example.com>
-- Officiele gebruikersdocumentatie: <https://yunohost.org/apps>
-- Officiele beheerdersdocumentatie: <https://yunohost.org/packaging_apps>
 - Upstream app codedepot: <https://github.com/benbusby/whoogle-search>
 - YunoHost-store: <https://apps.yunohost.org/app/whoogle>
 - Meld een bug: <https://github.com/YunoHost-Apps/whoogle_ynh/issues>
