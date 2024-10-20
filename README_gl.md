@@ -41,17 +41,12 @@ Get Google search results, but without any ads, JavaScript, AMP links, cookies, 
 
 **Versión proporcionada:** 0.9.0~ynh1
 
-**Demo:** <https://demo.example.com>
-
 ## Capturas de pantalla
 
 ![Captura de pantalla de Whoogle](./doc/screenshots/screenshot.png)
 
 ## Documentación e recursos
 
-- Web oficial da app: <https://example.com>
-- Documentación oficial para usuarias: <https://yunohost.org/apps>
-- Documentación oficial para admin: <https://yunohost.org/packaging_apps>
 - Repositorio de orixe do código: <https://github.com/benbusby/whoogle-search>
 - Tenda YunoHost: <https://apps.yunohost.org/app/whoogle>
 - Informar dun problema: <https://github.com/YunoHost-Apps/whoogle_ynh/issues>
