@@ -6,8 +6,6 @@ After=network.target
 Type=simple
 User=__APP__
 Group=__APP__
-#Environment=WHOOGLE_USER=__ADMIN__
-#Environment=WHOOGLE_PASS=__PASSWORD__
 WorkingDirectory=__INSTALL_DIR__/
 ExecStart=__INSTALL_DIR__/venv/bin/python3 __INSTALL_DIR__/venv/bin/whoogle-search --host 127.0.0.1 --port __PORT__
 ExecReload=/bin/kill -HUP $MAINPID
