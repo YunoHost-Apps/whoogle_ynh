@@ -3,8 +3,6 @@
 source _common.sh
 source /usr/share/yunohost/helpers
 
-ynh_app_setting_set --key=password --value="$password"
-
 #=================================================
 # STOP SYSTEMD SERVICE
 #=================================================
