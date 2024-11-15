@@ -39,7 +39,7 @@ Get Google search results, but without any ads, JavaScript, AMP links, cookies, 
 - Optional NoJS mode to view search results in a separate window with JavaScript blocked
 
 
-**Versión actual:** 0.9.0~ynh1
+**Versión actual:** 0.9.0~ynh2
 
 ## Capturas
 
