@@ -41,7 +41,9 @@ Get Google search results, but without any ads, JavaScript, AMP links, cookies, 
 - Optional NoJS mode to view search results in a separate window with JavaScript blocked
 
 
+
 **Geleverde versie:** 0.9.0~ynh3
+
 
 ## Schermafdrukken
 

@@ -41,7 +41,9 @@ Obtenez des résultats de recherche Google, mais sans aucune publicité, JavaScr
 - Mode NoJS facultatif pour afficher les résultats de la recherche dans une fenêtre séparée avec JavaScript bloqué
 
 
+
 **Version incluse :** 0.9.0~ynh3
+
 
 ## Captures d’écran
 
