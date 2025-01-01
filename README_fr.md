@@ -5,7 +5,9 @@ Il NE doit PAS être modifié à la main.
 
 # Whoogle pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/whoogle.svg)](https://ci-apps.yunohost.org/ci/apps/whoogle/) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/whoogle.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/whoogle.maintain.svg)
+[![Niveau d’intégration](https://apps.yunohost.org/badge/integration/whoogle)](https://ci-apps.yunohost.org/ci/apps/whoogle/)
+![Statut du fonctionnement](https://apps.yunohost.org/badge/state/whoogle)
+![Statut de maintenance](https://apps.yunohost.org/badge/maintained/whoogle)
 
 [![Installer Whoogle avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=whoogle)
 
@@ -39,7 +41,7 @@ Obtenez des résultats de recherche Google, mais sans aucune publicité, JavaScr
 - Mode NoJS facultatif pour afficher les résultats de la recherche dans une fenêtre séparée avec JavaScript bloqué
 
 
-**Version incluse :** 0.9.0~ynh2
+**Version incluse :** 0.9.0~ynh3
 
 ## Captures d’écran
 

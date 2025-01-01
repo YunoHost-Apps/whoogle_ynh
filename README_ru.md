@@ -5,7 +5,9 @@
 
 # Whoogle для YunoHost
 
-[![Уровень интеграции](https://dash.yunohost.org/integration/whoogle.svg)](https://ci-apps.yunohost.org/ci/apps/whoogle/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/whoogle.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/whoogle.maintain.svg)
+[![Уровень интеграции](https://apps.yunohost.org/badge/integration/whoogle)](https://ci-apps.yunohost.org/ci/apps/whoogle/)
+![Состояние работы](https://apps.yunohost.org/badge/state/whoogle)
+![Состояние сопровождения](https://apps.yunohost.org/badge/maintained/whoogle)
 
 [![Установите Whoogle с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=whoogle)
 
@@ -39,7 +41,7 @@ Get Google search results, but without any ads, JavaScript, AMP links, cookies, 
 - Optional NoJS mode to view search results in a separate window with JavaScript blocked
 
 
-**Поставляемая версия:** 0.9.0~ynh2
+**Поставляемая версия:** 0.9.0~ynh3
 
 ## Снимки экрана
 
