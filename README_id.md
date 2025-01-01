@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Whoogle untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/whoogle.svg)](https://ci-apps.yunohost.org/ci/apps/whoogle/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/whoogle.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/whoogle.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/whoogle)](https://ci-apps.yunohost.org/ci/apps/whoogle/)
+![Status kerja](https://apps.yunohost.org/badge/state/whoogle)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/whoogle)
 
 [![Pasang Whoogle dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=whoogle)
 
@@ -39,7 +41,7 @@ Get Google search results, but without any ads, JavaScript, AMP links, cookies, 
 - Optional NoJS mode to view search results in a separate window with JavaScript blocked
 
 
-**Versi terkirim:** 0.9.0~ynh2
+**Versi terkirim:** 0.9.0~ynh3
 
 ## Tangkapan Layar
 

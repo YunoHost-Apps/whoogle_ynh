@@ -5,7 +5,9 @@ It shall NOT be edited by hand.
 
 # Whoogle for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/whoogle.svg)](https://ci-apps.yunohost.org/ci/apps/whoogle/) ![Working status](https://ci-apps.yunohost.org/ci/badges/whoogle.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/whoogle.maintain.svg)
+[![Integration level](https://apps.yunohost.org/badge/integration/whoogle)](https://ci-apps.yunohost.org/ci/apps/whoogle/)
+![Working status](https://apps.yunohost.org/badge/state/whoogle)
+![Maintenance status](https://apps.yunohost.org/badge/maintained/whoogle)
 
 [![Install Whoogle with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=whoogle)
 
@@ -39,7 +41,7 @@ Get Google search results, but without any ads, JavaScript, AMP links, cookies, 
 - Optional NoJS mode to view search results in a separate window with JavaScript blocked
 
 
-**Shipped version:** 0.9.0~ynh2
+**Shipped version:** 0.9.0~ynh3
 
 ## Screenshots
 

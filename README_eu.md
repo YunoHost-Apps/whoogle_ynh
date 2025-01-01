@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # Whoogle YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/whoogle.svg)](https://ci-apps.yunohost.org/ci/apps/whoogle/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/whoogle.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/whoogle.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/whoogle)](https://ci-apps.yunohost.org/ci/apps/whoogle/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/whoogle)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/whoogle)
 
 [![Instalatu Whoogle YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=whoogle)
 
@@ -39,7 +41,7 @@ Get Google search results, but without any ads, JavaScript, AMP links, cookies, 
 - Optional NoJS mode to view search results in a separate window with JavaScript blocked
 
 
-**Paketatutako bertsioa:** 0.9.0~ynh2
+**Paketatutako bertsioa:** 0.9.0~ynh3
 
 ## Pantaila-argazkiak
 

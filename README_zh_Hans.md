@@ -5,7 +5,9 @@
 
 # YunoHost 上的 Whoogle
 
-[![集成程度](https://dash.yunohost.org/integration/whoogle.svg)](https://ci-apps.yunohost.org/ci/apps/whoogle/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/whoogle.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/whoogle.maintain.svg)
+[![集成程度](https://apps.yunohost.org/badge/integration/whoogle)](https://ci-apps.yunohost.org/ci/apps/whoogle/)
+![工作状态](https://apps.yunohost.org/badge/state/whoogle)
+![维护状态](https://apps.yunohost.org/badge/maintained/whoogle)
 
 [![使用 YunoHost 安装 Whoogle](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=whoogle)
 
@@ -39,7 +41,7 @@ Get Google search results, but without any ads, JavaScript, AMP links, cookies, 
 - Optional NoJS mode to view search results in a separate window with JavaScript blocked
 
 
-**分发版本：** 0.9.0~ynh2
+**分发版本：** 0.9.0~ynh3
 
 ## 截图
 

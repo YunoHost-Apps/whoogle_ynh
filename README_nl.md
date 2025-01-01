@@ -5,7 +5,9 @@ Hij mag NIET handmatig aangepast worden.
 
 # Whoogle voor Yunohost
 
-[![Integratieniveau](https://dash.yunohost.org/integration/whoogle.svg)](https://ci-apps.yunohost.org/ci/apps/whoogle/) ![Mate van functioneren](https://ci-apps.yunohost.org/ci/badges/whoogle.status.svg) ![Onderhoudsstatus](https://ci-apps.yunohost.org/ci/badges/whoogle.maintain.svg)
+[![Integratieniveau](https://apps.yunohost.org/badge/integration/whoogle)](https://ci-apps.yunohost.org/ci/apps/whoogle/)
+![Mate van functioneren](https://apps.yunohost.org/badge/state/whoogle)
+![Onderhoudsstatus](https://apps.yunohost.org/badge/maintained/whoogle)
 
 [![Whoogle met Yunohost installeren](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=whoogle)
 
@@ -39,7 +41,7 @@ Get Google search results, but without any ads, JavaScript, AMP links, cookies, 
 - Optional NoJS mode to view search results in a separate window with JavaScript blocked
 
 
-**Geleverde versie:** 0.9.0~ynh2
+**Geleverde versie:** 0.9.0~ynh3
 
 ## Schermafdrukken
 
