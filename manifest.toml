@@ -7,7 +7,7 @@ name = "Whoogle"
 description.en = "Self-hosted, ad-free, privacy-respecting metasearch engine"
 description.fr = "Métamoteur de recherche auto-hébergé, sans publicité et respectueux de la vie privée"
 
-version = "0.9.0~ynh3"
+version = "0.9.3~ynh1"
 
 maintainers = ["eric_G"]
 

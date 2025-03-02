@@ -41,7 +41,7 @@ Get Google search results, but without any ads, JavaScript, AMP links, cookies, 
 - Optional NoJS mode to view search results in a separate window with JavaScript blocked
 
 
-**Versi terkirim:** 0.9.0~ynh3
+**Versi terkirim:** 0.9.3~ynh1
 
 ## Tangkapan Layar
 
