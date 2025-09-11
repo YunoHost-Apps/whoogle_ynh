@@ -17,7 +17,7 @@ code = "https://github.com/benbusby/whoogle-search"
 fund ="https://ko-fi.com/benbusby"
 
 [integration]
-yunohost = ">= 12.0.9"
+yunohost = ">= 12.1.17"
 helpers_version = "2.1"
 architectures = "all"
 multi_instance = true
