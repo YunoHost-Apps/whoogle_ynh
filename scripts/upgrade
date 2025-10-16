@@ -35,6 +35,13 @@ popd
 chown -R $app:$app "$install_dir"
 
 #=================================================
+# UPDATE A CONFIG FILE
+#=================================================
+ynh_script_progression "Updating $app's configuration files..."
+
+ynh_config_add --template="whoogle.template.env" --destination="$install_dir/whoogle.env"
+
+#=================================================
 # START SYSTEMD SERVICE
 #=================================================
 ynh_script_progression "Starting $app's systemd service..."
