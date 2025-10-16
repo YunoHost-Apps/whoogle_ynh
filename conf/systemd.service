@@ -7,6 +7,7 @@ Type=simple
 User=__APP__
 Group=__APP__
 Environment=WHOOGLE_DOTENV=1
+Environment=WHOOGLE_DOTENV_PATH=__INSTALL_DIR__/whoogle.env
 WorkingDirectory=__INSTALL_DIR__/
 ExecStart=__INSTALL_DIR__/venv/bin/python3 __INSTALL_DIR__/venv/bin/whoogle-search --host 127.0.0.1 --port __PORT__
 ExecReload=/bin/kill -HUP $MAINPID
@@ -14,8 +15,6 @@ Restart=always
 RestartSec=3
 SyslogIdentifier=whoogle
 
-### Depending on specificities of your service/app, you may need to tweak these
-### .. but this should be a good baseline
 # Sandboxing options to harden security
 # Details for these options: https://www.freedesktop.org/software/systemd/man/systemd.exec.html
 NoNewPrivileges=yes

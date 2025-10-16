@@ -39,6 +39,14 @@ ram.runtime = "80M"
 
 [resources]
 
+    [resources.sources]
+
+    [resources.sources.main]
+    url = "https://github.com/benbusby/whoogle-search/archive/refs/tags/v1.1.0.tar.gz"
+    sha256 = "39316496e1a505625e3a5fa96c09aec23deb7ae726bc9bfce42383c96e482067"
+
+    autoupdate.strategy = "latest_github_tag"
+
     [resources.system_user]
 
     [resources.install_dir]
